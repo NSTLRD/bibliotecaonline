@@ -1,0 +1,6 @@
+{
+    "name": "starling/sistema-de-biblioteca",
+    "description": "Sistema de biblioteca básico en PHP y MySQL",
+    "type": "project",
+    "require": {}
+}
